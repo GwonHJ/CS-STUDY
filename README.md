@@ -44,6 +44,7 @@
 - [https://github.com/brave-people/brave-tech-interview](https://github.com/brave-people/brave-tech-interview)
 - [https://github.com/ksundong/backend-interview-question](https://github.com/ksundong/backend-interview-question)
 - [https://www.youtube.com/c/dongbinna](https://www.youtube.com/c/dongbinna)
+- [https://github.com/SSAFY-CS-STUDY/Tech_interview](https://github.com/SSAFY-CS-STUDY/Tech_interview)
 
 ---
 
