@@ -1,5 +1,5 @@
-<a href="[https://github.com/GwonHJ/CS-STUDY/graphs/contributors](https://github.com/GwonHJ/CS-STUDY/graphs/contributors)">
-<img src="[https://contrib.rocks/image?repo=GwonHJ/CS-STUDY](https://contrib.rocks/image?repo=GwonHJ/CS-STUDY)" />
+<a href="https://github.com/GwonHJ/CS-STUDY/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=GwonHJ/CS-STUDY" />
 </a>
 
 ## 📣 소개
